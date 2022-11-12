@@ -7,8 +7,8 @@ import LoginIcon from '@mui/icons-material/Login';
 export const Auth = () => {
   const Context = useContext(Contxt)
 
-  const SignInClick = () => window.open(`${process.env.API_IP}/auth`, "_self")
-  const LogoutClick = () => window.open(`${process.env.API_IP}/auth/logout`, "_self")
+  const SignInClick = () => window.open(`https://api.airconditioner.ac/auth`, "_self")
+  const LogoutClick = () => window.open(`https://api.airconditioner.ac/auth/logout`, "_self")
 
   return (
     <Button
