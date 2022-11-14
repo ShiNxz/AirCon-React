@@ -46,6 +46,7 @@ export const Panel = () => {
             <Button
               href="#"
               className={`h-12`}
+			  
             >
               <PowerSettingsNewIcon/>
               Invite

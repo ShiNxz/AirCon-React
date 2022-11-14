@@ -5,7 +5,7 @@ export const remote = {
 
 //export const InviteLink = 'https://discord.com/oauth2/authorize?client_id=803598057224536104&permissions=8&scope=bot%20applications.commands&&response_type=code&redirect_uri=http://localhost:3000'
 export const InviteLink =
-  "https://discord.com/oauth2/authorize?client_id=803598057224536104&permissions=8&scope=bot%20applications.commands&&response_type=code";
+  "https://discord.com/oauth2/authorize?client_id=735857612293275690&permissions=277129547104&scope=bot%20applications.commands&&response_type=code&redirect_uri=https://airconditioner.ac";
 
 export const ax = {
   baseURI: "https://api.airconditioner.ac",
